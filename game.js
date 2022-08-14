@@ -1,5 +1,5 @@
 function start() {
-    console.log("Welcome to fruit game!")
+    console.log("Welcome to Fruit game!")
 }
 
 function finish() {
